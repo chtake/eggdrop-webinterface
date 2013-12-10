@@ -17,7 +17,7 @@ Please note that the Code is (very) old - its from 2008 or so and could be not a
 
 ### Installation
 
-1.  **Webinterface Server (Web)**
+####  **Webinterface Server (Web)**
     
   * **OpenSSL**
     
@@ -54,7 +54,7 @@ Please note that the Code is (very) old - its from 2008 or so and could be not a
     `chmod +0777 temp/`
 
 
-2.  **Eggdrop Host**
+#### **Eggdrop Host**
   *  **vsftpd**
     
     `apt-get install gcc g++ make vsftpd`
