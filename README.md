@@ -78,3 +78,7 @@ Please note that the Code is (very) old - its from 2008 or so and could be not a
     `groupadd egg`
     
     `vi /etc/ssh/sshd_config` and add the eggdrop group du DenyGroups => `DenyGroups egg`
+
+## Copyright
+
+    Copyright (C) 2008 Eric 'take' Kurzhals <ek@attyh.com>
